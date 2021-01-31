@@ -7,4 +7,5 @@ When you will run the second script it will ask to enter the names/addresses of 
 - Artificially synthesize the data for minority classes
 - Encode the labels by OneHotEncoder
 - Training, testing and validation of model
+
 To run this script, we need sklearn, keras, tensorflow, matplotlib, imblearn and collections packages and frameworks.
