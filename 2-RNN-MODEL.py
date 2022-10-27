@@ -1,6 +1,6 @@
 # script for Recurrent Neural Network Model (Long Short-term Memory)
 import sys
-
+ 
 try:
 
     import numpy as np
